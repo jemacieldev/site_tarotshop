@@ -5,7 +5,7 @@
 }
 
 header, section h2, section h3, form button{
-    font-family: 'Bungee', cursive;
+    font-family: 'Rye', cursive;
     font-weight: normal;
 }
 
@@ -15,7 +15,7 @@ section h2, section h3 {
 
 
 body, input, textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Courier Prime', monospace;
 }
 
 header {

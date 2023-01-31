@@ -9,6 +9,11 @@ header, section h2, section h3, form button{
     font-weight: normal;
 }
 
+section h2, section h3 {
+    text-shadow: 5px 5px 10px #2EF2DF;
+}
+
+
 body, input, textarea {
     font-family: 'Roboto', sans-serif;
 }
@@ -16,18 +21,18 @@ body, input, textarea {
 header {
     padding: 16px 0;
     background-color: #03A696;
-    color: #ecf0f1;
+    color: #000D0C;
 }
 
 header nav li {
     display: inline;
     margin-left: 16px;
-    color: #ecf0f1;
+    color: #000D0C;
     font-size: 18px;
 }
 
 header nav li a {
-    color: #ecf0f1;
+    color: #000D0C;
     text-decoration: none;
 }
 
@@ -53,7 +58,7 @@ header .container, section .container {
 
 .brands-list li {
     display: inline;
-    margin-right: 8px;
+    margin-right: 20px;
 }
 
 section .container {
@@ -69,11 +74,11 @@ section h2 {
 }
 
 section {
-    color: #03A696;
+    color: #012623;
 }
 
 section p {
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 }
 
 .store-front {
@@ -120,7 +125,7 @@ section h3 {
 
 form button{
     background-color: #03A696;
-    color: #ecf0f1;
+    color: #000D0C;
     border: none;
     cursor: pointer;
 }
@@ -135,6 +140,6 @@ input:focus, textarea:focus {
 
 footer {
     background-color: #03A696;
-    color: #ecf0f1;
+    color: #000D0C;
     padding: 16px 0;
 }
